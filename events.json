@@ -2,6 +2,7 @@
   {
     "name": "サマー・クールオフat Tokyo Disney Resort",
     "namaKana": "ｻﾏｰ・ｸｰﾙｵﾌat Tokyo Disney Resort",
+    "image": "https://raw.githubusercontent.com/wvyrbnyq3t/GBCApp/main/images/summer2025.jpg/",
     "Operatings": [
       {
         "operatingDateFrom": "2025-07-02",
@@ -12,6 +13,7 @@
   {
     "name": "ディズニー・ハロウィーン",
     "namaKana": "ﾃﾞｨｽﾞﾆｰ・ﾊﾛｳｨｰﾝ",
+    "image": "https://raw.githubusercontent.com/wvyrbnyq3t/GBCApp/main/images/TDS_HW_MV.jpg/",
     "Operatings": [
       {
         "operatingDateFrom": "2025-09-17",
@@ -22,6 +24,7 @@
   {
     "name": "ラソス・デ・ラ・ファミリア",
     "namaKana": "ﾗｿｽ・ﾃﾞ・ﾗ・ﾌｧﾐﾘｱ",
+    "image": "https://raw.githubusercontent.com/wvyrbnyq3t/GBCApp/main/images/TDS_LDFF_thumb.jpg/",
     "Operatings": [
       {
         "operatingDateFrom": "2025-09-17",
