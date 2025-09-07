@@ -1,0 +1,32 @@
+[
+  {
+    "name": "サマー・クールオフat Tokyo Disney Resort",
+    "namaKana": "ｻﾏｰ・ｸｰﾙｵﾌat Tokyo Disney Resort",
+    "Operatings": [
+      {
+        "operatingDateFrom": "2025-07-02",
+        "operatingDateTo": "2025-09-15"
+      }
+    ]
+  },
+  {
+    "name": "ディズニー・ハロウィーン",
+    "namaKana": "ﾃﾞｨｽﾞﾆｰ・ﾊﾛｳｨｰﾝ",
+    "Operatings": [
+      {
+        "operatingDateFrom": "2025-09-17",
+        "operatingDateTo": "2025-10-31"
+      }
+    ]
+  },
+  {
+    "name": "ラソス・デ・ラ・ファミリア",
+    "namaKana": "ﾗｿｽ・ﾃﾞ・ﾗ・ﾌｧﾐﾘｱ",
+    "Operatings": [
+      {
+        "operatingDateFrom": "2025-09-17",
+        "operatingDateTo": "2025-11-02"
+      }
+    ]
+  }
+]
